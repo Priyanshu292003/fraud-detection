@@ -1,0 +1,13 @@
+# Data files
+data/raw/
+data/processed/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
